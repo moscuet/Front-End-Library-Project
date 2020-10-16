@@ -1,0 +1,11 @@
+#drum-machine{
+    margin:40px;
+    display: flex;
+    
+   
+  }
+  #drum-machine *{
+      margin:10px;
+      background:green;
+      padding:10px 20px
+    }

@@ -1,0 +1,39 @@
+body {
+    box-sizing: border-box;
+    background-color: #4da185;
+}
+.quoteWrapper{
+    box-sizing: border-box;
+    padding: calc((100vh - 600px)/2);
+   // border: 2px solid red;
+}
+#quote-box {
+    color:#4da185;
+    font: Raleway, sans-serif;
+    font-size:28px;
+    font-weight:500;
+    margin: auto;
+    box-sizing: border-box;
+    width: 600px;
+    height: 400px;
+    padding: 40px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#text{
+    box-sizing: border-box;
+    width: 100%;
+   // border: 2px solid yellow;
+    
+}
+#button-box{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+
+}
+#new-quote  {
+    
+}
